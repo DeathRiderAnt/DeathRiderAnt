@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there!
+
+I'm Anthony (or Ant), and I'm currently learning Javascript to give me a good baseline for attaining my first role as a Junior Software Developer
 
 <!--
 **DeathRiderAnt/DeathRiderAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
