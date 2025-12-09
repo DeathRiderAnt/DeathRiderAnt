@@ -65,7 +65,7 @@ These experiences shaped how I think, debug, communicate, and collaborate.
 ## 📫 Get in Touch
 
 - **Email:** anthony.laird.uk@gmail.com  
-- **LinkedIn:** [*(add your link)*](https://www.linkedin.com/in/ant-laird-97435a39/)  
+- **LinkedIn:** https://www.linkedin.com/in/ant-laird-97435a39/ 
 - **GitHub:** https://github.com/DeathRiderAnt  
 
 ---
